@@ -5,6 +5,10 @@ The corresponding publication "Erklaerbarkeit von Modellen maschinellen Lernens 
 second football division, since it seems to be the most unpredictable league in Europe (or even in the world).
 The work uses four different machine learning models to predict the results (home win, draw, away win) of the games.
 
+## Usage
+
+This project is not intended to be re-used. It only should store the published code. Hence, the code is accessible.
+
 ## Uses models
 
 The models used are:
