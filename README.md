@@ -9,7 +9,7 @@ The work uses four different machine learning models to predict the results (hom
 
 **This project is not intended to be re-used**, since neither the training- nor the test-data is not going to be shared. It only should store the published code. Hence, the code is accessible.
 
-## Uses models
+## Used models
 
 The models used are:
 - Decision Tree (scikit-learn)
