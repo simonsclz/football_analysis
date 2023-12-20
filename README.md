@@ -25,6 +25,6 @@ The data contains several statistics from games of the 2. Bundesliga of the seas
 
 If any questions occure, feel free to contact me:
 
-Simon Schulze
-simon.schulze@s2021.tu-chemnitz.de
+Simon Schulze \
+simon.schulze@s2021.tu-chemnitz.de \
 Technische Universitaet Chemnitz / Chemnitz University of Technology
