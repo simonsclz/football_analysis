@@ -1,4 +1,4 @@
-# Football analysis: corresponding code to my publication
+# Football analysis: ML-approach to predict the 2. Bundesliga
 
 This project was created in order to store the code needed for my seminar at university.
 The corresponding publication "Erklaerbarkeit von Modellen maschinellen Lernens und Anwendung auf die 2. Fußballbundesliga" analyses Germany's
