@@ -27,7 +27,7 @@ The data contains several statistics from games of the 2. Bundesliga of the seas
 
 ## Contact
 
-If any questions occur, feel free to contact me:
+If any questions occur, do not hesitate to contact me:
 
 Simon Schulze \
 simon.schulze@s2021.tu-chemnitz.de \
